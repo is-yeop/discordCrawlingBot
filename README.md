@@ -8,6 +8,3 @@
 2. 게임 연결리스트를 Database화하여 저장하기
 3. 
 
-### 참고 사이트
-1. https://realpython.com/how-to-make-a-discord-bot-python/
-2. 

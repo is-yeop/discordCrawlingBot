@@ -1,6 +1,8 @@
 # custom
 .idea
 
+# python config
+config.py
 ###########################
 led / optimized / DLL files
 __pycache__/
